@@ -126,12 +126,12 @@ const pages = {
         </form>
         <div class="contact-info">
             <h2>Coordonnées</h2>
-            <p><strong>Adresse :</strong> 22 rue Marcelin Berthelot, 83130 La Garde</p>
+            <p><strong>Adresse :</strong> 42 Avenue Irène et Jean Frédéric Joliot Curie, 83130 La Garde</p>
             <p><strong>Téléphone :</strong> 04 94 94 21 99</p>
             <p><strong>Email :</strong> contact@geoterria.com</p>
             <p><strong>Horaires :</strong> Lundi au vendredi, 9h à 18h</p>
             <div class="map">
-                <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.0104%2C43.1210%2C6.0218%2C43.1265&amp;layer=mapnik&amp;marker=43.1238,6.0161"
+                <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=6.0192%2C43.1243%2C6.0260%2C43.1271&amp;layer=mapnik&amp;marker=43.1257,6.0226"
                     style="border:1px solid #aaa; width:100%; height:200px;"></iframe>
             </div>
         </div>
